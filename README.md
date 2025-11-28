@@ -19,7 +19,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-API_Documentation-85EA2D)
 
 ### 💾 Базы данных
-[SQL](https://img.shields.io/badge/SQL-Database_Query-4479A1)
+![SQL](https://img.shields.io/badge/SQL-Database_Query-4479A1)
 
 ### 🎯 Методологии
 ![Agile](https://img.shields.io/badge/Agile-Scrum/kanban-FF9900)
