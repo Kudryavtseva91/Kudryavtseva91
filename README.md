@@ -7,8 +7,7 @@
 
 </div>
 
-📍 Саратов | 
-📧 [![Email](https://img.shields.io/badge/Email-oksikko@mail.ru-9370DB?style=flat&logo=gmail)](mailto:oksikko@mail.ru) | 
+📍 📧 [![Email](https://img.shields.io/badge/Email-oksikko@mail.ru-9370DB?style=flat&logo=gmail)](mailto:oksikko@mail.ru) | 
 💬 [![Telegram](https://img.shields.io/badge/Telegram-@Kseniya_Kudryavtseva-20B2AA?style=flat&logo=telegram)](https://t.me/Kseniya_Kudryavtseva)
 
 ## 🔮 Мой стек технологий:
@@ -32,11 +31,15 @@
 
 ## 🚀 Мои проекты:
 
-### 🎓 [Учебный проект: CRM-автоматизация](https://github.com/Kudryavtseva91/crm-automation-project)
+<div align="center">
+  
+  ### 🎓 [Учебный проект: CRM-автоматизация](https://github.com/Kudryavtseva91/crm-automation-project)
 _Разработка сервиса автоматизации внутренней CRM с системой MadeTsk_
 
 ### 📊 [Портфолио](https://github.com/Kudryavtseva91/documentation-templates)
 _Шаблоны ТЗ, диаграммы, разные проекты, сертификаты_
+
+</div>
 
 ## 📬 Связь со мной:
 
