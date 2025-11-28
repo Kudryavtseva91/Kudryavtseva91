@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Analytics](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Analytics]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif))
 
 </div>
 
