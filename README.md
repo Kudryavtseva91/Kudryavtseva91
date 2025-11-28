@@ -8,8 +8,10 @@
 </div>
 
 <div align="center">
+  
 📧 [![Email](https://img.shields.io/badge/Email-oksikko@mail.ru-9370DB?style=flat&logo=gmail)](mailto:oksikko@mail.ru) | 
 💬 [![Telegram](https://img.shields.io/badge/Telegram-@Kseniya_Kudryavtseva-20B2AA?style=flat&logo=telegram)](https://t.me/Kseniya_Kudryavtseva)
+
 </div>
 
 ## 🔮 Мой стек технологий:
