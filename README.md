@@ -27,7 +27,7 @@
 
 ## 📂 Мои проекты:
 
-### 🎓 [Учебный проект: CRM-автоматизация](https://github.com/your-username/crm-automation-project)
+### 🎓 [Учебный проект: CRM-автоматизация](https://github.com/Kudryavtseva91/crm-automation-project)
 _Разработка сервиса автоматизации внутренней CRM с системой MadeTsk_
 
 ### 📊 [Библиотека документации](https://github.com/your-username/documentation-templates)
