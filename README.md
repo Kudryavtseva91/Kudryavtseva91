@@ -1,15 +1,11 @@
 <div align="center">
- 👩🏼‍💻 Привет! Я Оксана Кудрявцева
-Системный аналитик | Бизнес-аналитик 💜
 
-</div>
-
-<div align="center">
+<h1 style="color: #9370DB;">👋 Привет! Я Оксана Кудрявцева</h1>
+<p style="color: #9370DB;"><strong>Системный аналитик | Бизнес-аналитик</strong></p>
 
 ![Women in Tech](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
 </div>
-
 📍 📧 [![Email](https://img.shields.io/badge/Email-oksikko@mail.ru-9370DB?style=flat&logo=gmail)](mailto:oksikko@mail.ru) | 
 💬 [![Telegram](https://img.shields.io/badge/Telegram-@Kseniya_Kudryavtseva-20B2AA?style=flat&logo=telegram)](https://t.me/Kseniya_Kudryavtseva)
 
