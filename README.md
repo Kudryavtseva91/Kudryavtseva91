@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color: #9370DB;">👋 Привет! Я Оксана Кудрявцева</h1>
+<h1 style="color: #9370DB;">👩🏼‍💻 Привет! Я Оксана Кудрявцева</h1>
 <p style="color: #9370DB;"><strong>Системный аналитик | Бизнес-аналитик</strong></p>
 
 ![Women in Tech](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
