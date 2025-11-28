@@ -1,7 +1,7 @@
 # 👋 Привет! Я Оксана Кудрявцева
 **Системный аналитик | Бизнес-аналитик**
 
-📍 Саратов | 📧 oksikko@mail.ru | 💬 @Kseniya_Kudryavtseva[@Kseniya_Kudryavtseva](https://t.me/Kseniya_Kudryavtseva)
+📍 Саратов | 📧 oksikko@mail.ru | 💬 [![Telegram](https://img.shields.io/badge/Telegram-@Kseniya_Kudryavtseva-blue?style=flat&logo=telegram)](https://t.me/Kseniya_Kudryavtseva)
 
 ## 🛠 Мой стек технологий:
 
