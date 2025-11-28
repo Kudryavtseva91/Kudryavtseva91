@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Analytics]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif))
+![Women in Tech](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
 </div>
 
