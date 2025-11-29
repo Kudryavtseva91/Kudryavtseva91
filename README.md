@@ -37,8 +37,8 @@
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/📋_Скачать_резюме_PDF-9370DB?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Kudryavtseva91/documentation-templates/raw/main/resume/Resume_Oksana_Kudryavtseva.pdf)
-[![View Online](https://img.shields.io/badge/👀_Смотреть_онлайн-20B2AA?style=for-the-badge)](https://github.com/Kudryavtseva91/documentation-templates/blob/main/resume/Resume_Oksana_Kudryavtseva.pdf)
+[![Download Resume](https://img.shields.io/badge/📋_Скачать_резюме_PDF-9370DB?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Kudryavtseva91/documentation-templates/resume/Resume_Oksana_Kudryavtseva.md)
+[![View Online](https://img.shields.io/badge/👀_Смотреть_онлайн-20B2AA?style=for-the-badge)](https://github.com/Kudryavtseva91/documentation-templates/resume/Resume_Oksana_Kudryavtseva.md)
 
 </div>
 
