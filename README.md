@@ -28,6 +28,7 @@
 ![Postman](https://img.shields.io/badge/📡_Postman-API_Testing-20B2AA?style=flat)
 ![Swagger](https://img.shields.io/badge/🔍_Swagger-API_Documentation-8A2BE2?style=flat)
 ![SQL](https://img.shields.io/badge/💾_SQL-Database_Query-9370DB?style=flat)
+![Redash](https://img.shields.io/badge/📈_Redash-Data_Visualization-20B2AA?style=flat)
 ![Agile](https://img.shields.io/badge/🔄_Agile-Scrum/kanban-20B2AA?style=flat)
 ![AS-IS/TO-BE](https://img.shields.io/badge/✨_AS--IS/TO--BE-Process_Analysis-8A2BE2?style=flat)
 
