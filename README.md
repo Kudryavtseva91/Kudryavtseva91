@@ -65,7 +65,7 @@
 
 ## 🚀 Мои проекты
 
-### 1️⃣ [Внедрение ServiceDesk (GLPI)](https://github.com/Kudryavtseva91/servicedesk-glpi-project) `NEW`
+### 1️⃣ [Внедрение ServiceDesk (GLPI)](https://github.com/servicedesk-glpi-project/README.md) `NEW`
 
 **Роль:** Системный аналитик / Руководитель проекта
 
@@ -82,7 +82,7 @@
 
 ---
 
-### 2️⃣ [AI-боты для автоматизации поддержки](https://github.com/Kudryavtseva91/ai-bots-project) `NEW`
+### 2️⃣ [AI-боты для автоматизации поддержки](https://github.com/ai-bots-project/README.md) `NEW`
 
 **Роль:** Системный аналитик / Продуктовый менеджер
 
@@ -103,7 +103,7 @@
 
 ---
 
-### 3️⃣ [CRM-автоматизация](https://github.com/Kudryavtseva91/crm-automation-project)
+### 3️⃣ [CRM-автоматизация](https://github.com/crm-automation-project/README.md)
 
 **Роль:** Системный аналитик
 
