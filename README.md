@@ -80,8 +80,6 @@
 
 **Технологии:** `GLPI` `BPMN` `SLA` `CMDB` `REST API` `ADFS` `1C` `ITIL`
 
-[📊 Презентация проекта](ссылка) | [📋 ТЗ и требования](ссылка) | [📐 Схемы процессов](ссылка)
-
 ---
 
 ### 2️⃣ [AI-боты для автоматизации поддержки](https://github.com/Kudryavtseva91/ai-bots-project) `NEW`
@@ -103,8 +101,6 @@
 
 **Технологии:** `RAG` `LLM` `ChatGPT API` `Python` `Confluence` `B24`
 
-[📋 ТЗ на ботов](ссылка) | [📐 Схемы работы](ссылка)
-
 ---
 
 ### 3️⃣ [CRM-автоматизация](https://github.com/Kudryavtseva91/crm-automation-project)
@@ -117,8 +113,6 @@
 - ✅ Подготовка презентации и дашборда
 
 **Технологии:** `BPMN` `UML` `SQL` `REST API`
-
-[🔗 Подробнее](https://github.com/Kudryavtseva91/crm-automation-project)
 
 ---
 
