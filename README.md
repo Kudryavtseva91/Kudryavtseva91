@@ -103,7 +103,7 @@
 
 ---
 
-### 3️⃣ [CRM-автоматизация](https://github.com/Kudryavtseva91/documents_project/tree/main/crm-automation-project)
+### 3️⃣ [CRM-автоматизация](https://github.com/Kudryavtseva91/documents_project/tree/main/services/documents_project/crm-automation-project)
 
 **Роль:** Системный аналитик
 
