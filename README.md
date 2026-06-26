@@ -109,6 +109,8 @@
 
 **Роль:** Системный аналитик
 
+[![Смотреть проект](https://img.shields.io/badge/📊_Смотреть_проект-9370DB?style=for-the-badge)](https://github.com/Kudryavtseva91/crm-automation-project)
+
 - ✅ Полный цикл BA/SA: сбор требований, BPMN диаграммы
 - ✅ Проектирование архитектуры и структуры данных
 - ✅ Описание интеграций
