@@ -65,7 +65,7 @@
 
 ## 🚀 Мои проекты
 
-### 1️⃣ [Внедрение ServiceDesk (GLPI)](https://github.com/Kudryavtseva91/documents_project/tree/main/servicedesk-glpi-project) `NEW`
+### 1️⃣ [Внедрение ServiceDesk (GLPI)](https://github.com/Kudryavtseva91/documents_project/tree/main/services/documents_project/servicedesk-glpi-project) `NEW`
 
 **Роль:** Системный аналитик / Руководитель проекта
 
