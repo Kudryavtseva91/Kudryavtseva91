@@ -69,6 +69,7 @@
 
 **Роль:** Системный аналитик / Руководитель проекта
 
+[![Смотреть презентацию](https://img.shields.io/badge/📊_Смотреть_презентацию-9370DB?style=for-the-badge)](https://Kudryavtseva91.github.io/documents_project/servicedesk-glpi-project/docs/serviceDESK%20(6).html)
 **Что сделано:**
 - ✅ Провела AS-IS анализ: интервью со стейкхолдерами, анализ текущих процессов
 - ✅ Собрала и приоритизировала требования (MoSCoW) от 4+ отделов
