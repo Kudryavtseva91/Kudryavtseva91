@@ -82,7 +82,7 @@
 
 ---
 
-### 2️⃣ [AI-боты для автоматизации поддержки](https://github.com/Kudryavtseva91/documents_project/tree/main/servicedesk-glpi-project) `NEW`
+### 2️⃣ [AI-боты для автоматизации поддержки](https://github.com/Kudryavtseva91/documents_project/tree/main/ai-bots-project/README.md) `NEW`
 
 **Роль:** Системный аналитик / Продуктовый менеджер
 
@@ -103,7 +103,7 @@
 
 ---
 
-### 3️⃣ [CRM-автоматизация](https://github.com/Kudryavtseva91/documents_project/tree/main/services/documents_project/crm-automation-project)
+### 3️⃣ [CRM-автоматизация](https://github.com/Kudryavtseva91/documents_project/tree/main/crm-automation-project/README.md)
 
 **Роль:** Системный аналитик
 
